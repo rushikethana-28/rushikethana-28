@@ -1,49 +1,105 @@
-<h1 align="center">Hi 👋, I'm Rushikethana Gottimukkula</h1>
-<h3 align="center">Aspiring Scrum / Operations Intern | CS Undergrad passionate about AI-ML, Agile workflows, and building real-world solutions</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikethana-28&label=Profile%20views&color=0e75b6&style=flat" alt="rushikethana-28" /> </p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Rushikethana%20Gottimukkula&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Scrum%20%7C%20AI-ML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=16)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushikethana-28" alt="rushikethana-28" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Rushikethana!;Aspiring+Scrum+%2F+Operations+Intern+🚀;AI-ML+Explorer+%7C+Builder+%7C+Leader;Open+to+Internship+Opportunities+💼)](https://git.io/typing-svg)
 
-- 🔭 I'm currently pursuing **B.Tech in Computer Science at SR University, Warangal (CGPA: 9.01/10)**
+<img src="https://komarev.com/ghpvc/?username=rushikethana-28&label=Profile+Views&color=7c3aed&style=for-the-badge" />
 
-- 🌱 I'm currently learning **Advanced DSA, System Design, and Java Development**
+</div>
 
-- 👯 I'm looking to collaborate on **Scrum Operations, AI-ML projects, and Full Stack Development**
+---
 
-- 🤝 I'm looking for help with **Internship roles in Scrum Master, Operations, or AI-ML**
+## 🙋‍♀️ About Me
 
-- 💬 Ask me about **Agile methodologies, Jira sprint boards, REST APIs, and building ML-powered tools**
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 📫 How to reach me **rushikethana2006@gmail.com**
+🎓 B.Tech CS @ **SR University**, Warangal — CGPA **9.01/10**
+💼 Aspiring **Scrum / Operations Intern**
+🤖 AI-ML Virtual Intern @ **AICTE** — 100% on-time delivery
+📄 **IEEE Published** — Deep Learning & Ensemble Modeling
+🏆 Coordinated hackathon for **20+ teams**
+🌱 Currently learning **DSA · System Design · Java**
+📍 Peddhapalli, Telangana 🇮🇳
+📫 **rushikethana2006@gmail.com**
 
-- ⚡ Fun fact **I coordinated a hackathon for 20+ teams AND published an IEEE paper — all while maintaining a 9.01 CGPA 😄**
+<br clear="right"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rushikethana-gottimukkula-aa569b325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikethana linkedin" height="30" width="40" /></a>
-<a href="mailto:rushikethana2006@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="email" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-</p>
+## ⚡ Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikethana-28&show_icons=true&locale=en&layout=compact" alt="rushikethana-28" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikethana-28&show_icons=true&locale=en" alt="rushikethana-28" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikethana-28&" alt="rushikethana-28" /></p>
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projects
+
+| Project | Stack | Impact |
+|--------|-------|--------|
+| 🔴 **Incident Response Agent** | Node.js · YAML · AI | ⬇️ 40% manual review time |
+| 🌦️ **SkyWatch Weather Dashboard** | JS · Chart.js · REST API | ⚡ <2s load · 30% perf boost |
+| 🛒 **AlertCart Price Tracker** | Python · Flask · SQLite | ⬇️ 60% monitoring effort |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rushikethana-28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikethana-28&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikethana-28&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rushikethana-28&theme=tokyonight&no-frame=true&margin-w=8&column=7" />
+</div>
+
+---
+
+## 🏅 Certifications & Achievements
+
+| | |
+|--|--|
+| ☁️ Microsoft Azure AI-900 | Oct 2025 |
+| 🤖 AI-ML Virtual Internship — AICTE | Jul–Sep 2024 |
+| 🌐 Introduction to Networks — Cisco | Nov 2024 |
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikethana-gottimukkula-aa569b325)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushikethana-28)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikethana2006@gmail.com)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
