@@ -14,13 +14,13 @@
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I am a Full-Stack Developer with hands-on experience building AI-powered applications, REST API integrations, and data-driven web solutions[cite: 2]. I thrive at the intersection of data, intelligent systems, and elegant user experiences[cite: 1]. 
+I am a Full-Stack Developer with hands-on experience building AI-powered applications, REST API integrations, and data-driven web solutions. I thrive at the intersection of data, intelligent systems, and elegant user experiences. 
 
-*   🎓 **Education:** B.Tech Computer Science @ SR University (Expected May 2027) — CGPA **9.014/10**[cite: 2].
-*   💼 **Currently Seeking:** SDE / Full-Stack / AI-ML internship opportunities[cite: 2].
-*   🤖 **Experience:** AI-ML Virtual Intern at the AICTE National Internship Portal (Jul 2024 – Sep 2024)[cite: 2].
-*   🌱 **Currently Learning:** Data Structures & Algorithms, System Design, and Object-Oriented Programming[cite: 2].
-*   📫 **Contact:** [rushikethana2006@gmail.com](mailto:rushikethana2006@gmail.com)[cite: 2].
+* 🎓 **Education:** B.Tech Computer Science @ SR University (Expected May 2027) — CGPA **9.014/10**.
+* 💼 **Currently Seeking:** SDE / Full-Stack / AI-ML internship opportunities.
+* 🤖 **Experience:** AI-ML Virtual Intern at the AICTE National Internship Portal (Jul 2024 – Sep 2024).
+* 🌱 **Currently Learning:** Data Structures & Algorithms, System Design, and Object-Oriented Programming.
+* 📫 **Contact:** [rushikethana2006@gmail.com](mailto:rushikethana2006@gmail.com).
 
 <br clear="right"/>
 
@@ -46,26 +46,26 @@ I am a Full-Stack Developer with hands-on experience building AI-powered applica
 
 | Project | Description | Impact & Stack |
 | :--- | :--- | :--- |
-| 🔴 **Incident Response Agent** | Built an AI-powered incident response tool to correlate errors across microservices and auto-generate postmortem reports[cite: 2]. | **Impact:** Cut manual review time by 40%[cite: 2].<br>**Stack:** Node.js, YAML, AI[cite: 2]. |
-| 🌦️ **SkyWatch Weather Dashboard** | Developed a real-time weather dashboard with OpenWeatherMap API integration, featuring lazy loading and request batching[cite: 1, 2]. | **Impact:** Boosted frontend performance by 30%[cite: 2].<br>**Stack:** JavaScript, Chart.js, REST API[cite: 2]. |
-| 🛒 **AlertCart Price Tracker** | Created a full-stack tracker scraping 500+ SKUs from e-commerce sites, storing data in SQLite with change detection[cite: 2]. | **Impact:** Automated email alerts reduced manual monitoring by 60%[cite: 2].<br>**Stack:** Python, Flask, BeautifulSoup[cite: 2]. |
-| 📊 **Smart School Analytics** | Built a web platform for tracking student performance across subjects with intuitive visualizations to identify at-risk students[cite: 1]. | **Impact:** Enabled early interventions by teachers[cite: 1].<br>**Stack:** Python, Flask, HTML, CSS[cite: 1]. |
+| 🔴 **Incident Response Agent** | Built an AI-powered incident response tool to correlate errors across microservices and auto-generate postmortem reports. | **Impact:** Cut manual review time by 40%.<br>**Stack:** Node.js, YAML, AI. |
+| 🌦️ **SkyWatch Weather Dashboard** | Developed a real-time weather dashboard with OpenWeatherMap API integration, featuring lazy loading and request batching. | **Impact:** Boosted frontend performance by 30%.<br>**Stack:** JavaScript, Chart.js, REST API. |
+| 🛒 **AlertCart Price Tracker** | Created a full-stack tracker scraping 500+ SKUs from e-commerce sites, storing data in SQLite with change detection. | **Impact:** Automated email alerts reduced manual monitoring by 60%.<br>**Stack:** Python, Flask, BeautifulSoup. |
+| 📊 **Smart School Analytics** | Built a web platform for tracking student performance across subjects with intuitive visualizations to identify at-risk students. | **Impact:** Enabled early interventions by teachers.<br>**Stack:** Python, Flask, HTML, CSS. |
 
 ---
 
 ## 🏆 Experience & Leadership
 
-*   **AI-ML Virtual Intern @ AICTE:** Tracked project progress for 10+ team members and ensured 100% on-time delivery of 10 weekly ML modules[cite: 2]. Documented workflows and created detailed reports on ML concepts[cite: 2].
-*   **Hackathon Coordinator @ SR University:** Coordinated a college hackathon with 20+ teams, guiding participants on project architecture and tech stack selection[cite: 2].
-*   **Workshop Organizer:** Planned and delivered hands-on Python and Web Development workshops for 50+ peers[cite: 2].
+* **AI-ML Virtual Intern @ AICTE:** Tracked project progress for 10+ team members and ensured 100% on-time delivery of 10 weekly ML modules. Documented workflows and created detailed reports on ML concepts.
+* **Hackathon Coordinator @ SR University:** Coordinated a college hackathon with 20+ teams, guiding participants on project architecture and tech stack selection.
+* **Workshop Organizer:** Planned and delivered hands-on Python and Web Development workshops for 50+ peers.
 
 ---
 
 ## 🏅 Certifications
 
-*   **Microsoft Azure AI Fundamentals (AI-900)** – Microsoft[cite: 2].
-*   **AI-ML Virtual Internship** – AICTE National Internship Portal[cite: 2].
-*   **Introduction to Networks** – Cisco[cite: 2].
+* **Microsoft Azure AI Fundamentals (AI-900)** – Microsoft.
+* **AI-ML Virtual Internship** – AICTE National Internship Portal.
+* **Introduction to Networks** – Cisco.
 
 ---
 
